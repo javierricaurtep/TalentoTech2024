@@ -1,0 +1,9 @@
+Con este proyecto se intentan aportar perspectivas análiticas a procesos sociales usando el Machine Learning y las Redes Neuronales como herramienta.
+
+Se analizará el dataset disponible en Datos Abiertos "ESTADÍSTICAS DE LAS PERSONAS DESMOVILIZADAS QUE HAN INGRESADO AL PROCESO DE REINTEGRACIÓN (https://www.datos.gov.co/Inclusi-n-Social-y-Reconciliaci-n/ESTAD-STICAS-DE-LAS-PERSONAS-DESMOVILIZADAS-QUE-HA/39pj-dba6/about_data)", de la Agencia para la Reincorporación y la Normalización (ARN). Esta agencia se encarga de registrar y llevar el proceso de reintegración a la vida civil de ex miembros de grupos al margen de la ley en Colombia.
+
+El objetivo principal será crear una red neuronal de clasificación supervisada para determinar la situación final frente al proceso de una persona (Culminado o Fuera del Proceso) a partir de las variables disponibles entre las que se incluyen beneficios prestados por la agencia, factores demográficos y socioeconómicos, y caracterísiticas del proceso de desmovilización.
+
+En un primer instante se hará un análisis exploratorio de los datos (EDA) para describir y entender el comportamiento de las variables, y también para filtrar los registros necesarios y seleccionar las variables que son relevantes para este estudio.
+
+Posteriormente se dividiran los datos en sets de entrenamiento, validación y prueba, y se entrenará una red neuronal para realizar la clasificación. Finalmente se evaluará el modelo y se expondrán las métricas que permitan elaborar una conclusión.
