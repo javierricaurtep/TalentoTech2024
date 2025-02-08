@@ -4,7 +4,7 @@ Utilicé una red neuronal como herramienta metodológica para esta cuestión.
 El dataset utilizado esta disponible en este repositorio como un archivo .csv
 El proyecto está en formato de Jupyter Notebook. Allí encontrarás:
 *  Resumen.
-*  Exploratory Data Analysis.
-*  Construcción de la Red Neuronal
+*  Analisis Exploratorio de los Datos.
+*  Construcción de la Red Neuronal.
 *  Conclusiones. 
 *  Prompts usados en Gemini.
